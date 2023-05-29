@@ -1,0 +1,23 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.header {
+    background-color: red;
+    height: 10vh;
+    width: 100vw;
+}
+
+.container{
+    width: 100vw;
+    height: 80vh;
+    margin: 10px;
+    align-items: center;
+    justify-content: center;
+}
+
+.form{
+    padding: 50px;
+    margin: 10px;
+}
